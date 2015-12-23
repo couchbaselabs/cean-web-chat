@@ -1,0 +1,6 @@
+<ul id="messages">
+    <li *ngFor="#message of messages">{{message}}</li>
+</ul>
+<form action="">
+    <input [(ngModel)]="chatBox" autocomplete="off" /><button (click)="send(chatBox)">Send</button>
+</form>
