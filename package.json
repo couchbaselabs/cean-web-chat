@@ -7,9 +7,16 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "tsc": "tsc -p public -w"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
+    "keywords": [
+        "couchbase",
+        "angular 2",
+        "typescript",
+        "socket.io",
+        "chat",
+        "real-time"
+    ],
+    "author": "Nic Raboy",
+    "license": "Apache-2.0",
     "dependencies": {
         "angular2": "^2.0.0-beta.0",
         "body-parser": "^1.14.2",
