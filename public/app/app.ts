@@ -9,7 +9,7 @@ import {bootstrap} from "angular2/platform/browser";
 import {
     RouteConfig,
     RouterLink,
-    RouterOutlet,
+    RouterOutlet, 
     Route,
     ROUTER_DIRECTIVES,
     ROUTER_PROVIDERS,

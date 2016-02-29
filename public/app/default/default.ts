@@ -10,7 +10,7 @@ declare var io: any;
 
 @View({
     templateUrl: 'app/default/default.html'
-})
+}) 
 
 export class DefaultPage {
 
